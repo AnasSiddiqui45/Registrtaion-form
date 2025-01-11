@@ -1,1 +1,1 @@
-# Registrtaion-form by using HTML
+# Registeration-form by using HTML
